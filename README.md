@@ -1,28 +1,15 @@
----
-title: "Lab 04: Streaming Data Processing with Spark"
-author: ["Qua Tao"]
-date: "2023-05-30"
-subtitle: "CSC14118 Introduction to Big Data 20_21"
-lang: "en"
-titlepage: true
-titlepage-color: "0B1887"
-titlepage-text-color: "FFFFFF"
-titlepage-rule-color: "FFFFFF"
-titlepage-rule-height: 2
-book: true
-classoption: oneside
-code-block-font-size: \scriptsize
+
 ---
 # Lab 04: Streaming Data Processing with Spark
 
 ## Result
 
-| Section | Tasks | Percentage of completion. |
+| Section | Tasks |
 | -------- | -------- | -------- |
-| 1 | Get Twitter tweets - Save the tweets (option 2) | 100% |
-| 2| Stream tweets to Apache Spark (option 2) | 100% |
-| 3| Perform sentiment analysis on tweets  | 100% |
-| 4| Visualize the analytic results (option 3)  | 85% |
+| 1 | Get Twitter tweets - Save the tweets (option 2) | 
+| 2| Stream tweets to Apache Spark (option 2) | 
+| 3| Perform sentiment analysis on tweets  | 
+| 4| Visualize the analytic results (option 3)  |
 
 ## Get Twitter tweets
 
