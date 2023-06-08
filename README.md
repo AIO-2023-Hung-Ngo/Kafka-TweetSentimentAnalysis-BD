@@ -2,14 +2,7 @@
 ---
 # Lab 04: Streaming Data Processing with Spark
 
-## Result
 
-| Section | Tasks |
-| -------- | -------- | -------- |
-| 1 | Get Twitter tweets - Save the tweets (option 2) | 
-| 2| Stream tweets to Apache Spark (option 2) | 
-| 3| Perform sentiment analysis on tweets  | 
-| 4| Visualize the analytic results (option 3)  |
 
 ## Get Twitter tweets
 
