@@ -1,6 +1,5 @@
 
 ---
-# Lab 04: Streaming Data Processing with Spark
 
 
 
